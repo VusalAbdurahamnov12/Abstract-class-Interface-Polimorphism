@@ -1,0 +1,14 @@
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.csproj.AssemblyReference.cache
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.AssemblyInfoInputs.cache
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.AssemblyInfo.cs
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.exe
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.deps.json
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.runtimeconfig.json
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.runtimeconfig.dev.json
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.dll
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\bin\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.pdb
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.dll
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.pdb
+C:\Users\sh13ld\Videos\tasks\home\Abstract class, Interface, Polimorphism\Abstract class, Interface, Polimorphism\obj\Debug\netcoreapp3.1\Abstract class, Interface, Polimorphism.genruntimeconfig.cache
