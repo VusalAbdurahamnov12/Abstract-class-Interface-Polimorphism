@@ -34,7 +34,7 @@ namespace Abstract_class__Interface__Polimorphism
                         Console.WriteLine($"Rectangular are is:{Rectangular1.CalcArea()}");
                         break;
                     default:
-                        // code block
+                        Console.Clear();
                         break;
                 }
             } while (key !=0);
