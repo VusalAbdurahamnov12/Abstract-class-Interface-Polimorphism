@@ -51,7 +51,7 @@ namespace Abstract_class__Interface__Polimorphism
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Side cannot 0");
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine("Enter true information:");
+                    Console.Write("Enter true information:");
                     side = Convert.ToInt32(Console.ReadLine());
                 }
                 else
@@ -76,7 +76,7 @@ namespace Abstract_class__Interface__Polimorphism
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("width cannot 0");
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine("Enter true information:");
+                    Console.Write("Enter true information:");
                     width = Convert.ToInt32(Console.ReadLine());
                 }
                 else
@@ -99,8 +99,8 @@ namespace Abstract_class__Interface__Polimorphism
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("width cannot 0");
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine("Enter true information:");
-                    width = Convert.ToInt32(Console.ReadLine());
+                    Console.Write("Enter true information:");
+                    length = Convert.ToInt32(Console.ReadLine());
                 }
                 else
                 {
@@ -108,7 +108,7 @@ namespace Abstract_class__Interface__Polimorphism
                     Console.WriteLine("length can not be neagtive.!");
                     Console.ForegroundColor = ConsoleColor.Cyan;
                     Console.Write("Enter true information:");
-                    width = Convert.ToInt32(Console.ReadLine());
+                    length = Convert.ToInt32(Console.ReadLine());
                 }
             }
         }
